@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(115, 220, 220);
+}
+
+p,span{
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+#score{
+    font-size: 35px;
+    margin-left: 25px;
+    float: left;
+}
+
+#time{
+    font-size: 35px;
+    margin-right: 25px;
+    float: right;
+}
+
+#show_sketch{
+    float: right;
+}
+
+h1{
+    background-color: bisque;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+canvas{
+    margin-top: 150px;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px gray;
+}
